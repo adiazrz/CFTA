@@ -1,4 +1,4 @@
-import java.lang.*;//importa para mandar siempre para mandar a escribir en la pantalla.
+import java.lang.*;//importa para mandar siempre a escribir en la pantalla.
 public class Circuloss
 
 {
