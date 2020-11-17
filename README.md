@@ -1,5 +1,4 @@
 import java.lang.*;//importa para mandar siempre a escribir en la pantalla.
-public class Circuloss
 
 {
     // variables de instancia 
