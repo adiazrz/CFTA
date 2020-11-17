@@ -1,4 +1,5 @@
-import java.lang.*;//importa para mandar siempre a escribir en la pantalla.
+import java.lang.*;//importa, para mandar siempre a escribir en la pantalla, no es necesario escribirlo  -.-
+public class Circuloss
 
 {
     // variables de instancia 
@@ -13,6 +14,12 @@ import java.lang.*;//importa para mandar siempre a escribir en la pantalla.
     public double x; 
     public double y;
     public double r;
+    //public doible x,y,r;
+
+    
+//when the parameter and the variable of instance are the same:
+//this.x=x;    :,)
+//mood elegante uwu'
 
     //{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{
     //public Circuloss(double cx, double cy, double radio) //Este es un constructor, que no tiene tipo, es la unica
@@ -62,6 +69,7 @@ import java.lang.*;//importa para mandar siempre a escribir en la pantalla.
     //Metodos de instancia
     //por ser una variable de instancia no se pone en los parametros, un metodo de instancia puede trabajar con cualquier
     //variable de instancia.
+
     double circunferencia()  
      {
      return 2*3.1416*r;
