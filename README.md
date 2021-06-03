@@ -19,7 +19,7 @@ public class Circuloss
     
 //when the parameter and the variable of instance are the same:
 //this.x=x;    :,)
-//mood elegante uwu'
+//mood elegante owo'
 
     //{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{
     //public Circuloss(double cx, double cy, double radio) //Este es un constructor, que no tiene tipo, es la unica
